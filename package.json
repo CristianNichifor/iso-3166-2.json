@@ -5,12 +5,16 @@
   "main": "iso-3166-2.json",
   "scripts": {
     "build": "node ./compile.js",
-    "prepublish": "npm run build"
+    "prepublish": "npm run build",
+    "test": "node --test test/*.test.cjs",
+    "verify": "npm test && node compile.js --check"
   },
   "author": "Ola Holmström",
   "license": "ISC",
   "devDependencies": {
-    "csv": "^0.4.6",
-    "file-size": "^1.0.0"
+    "csv-parse": "7.0.3"
+  },
+  "engines": {
+    "node": ">=22.12.0"
   }
 }

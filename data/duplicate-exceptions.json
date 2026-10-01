@@ -1,0 +1,86 @@
+{
+  "GN-KD": [
+    [
+      "",
+      "",
+      "GN-KD",
+      "Koundara"
+    ],
+    [
+      "",
+      "",
+      "GN-KD",
+      "Kindia"
+    ]
+  ],
+  "ES-O": [
+    [
+      "",
+      "ES-O",
+      "",
+      "Asturias, Principado de"
+    ],
+    [
+      "",
+      "",
+      "ES-O",
+      "Asturias"
+    ]
+  ],
+  "ES-PM": [
+    [
+      "",
+      "ES-PM",
+      "",
+      "Islas Baleares"
+    ],
+    [
+      "",
+      "",
+      "ES-PM",
+      "Baleares"
+    ]
+  ],
+  "ES-M": [
+    [
+      "",
+      "ES-M",
+      "",
+      "Madrid, Comunidad de"
+    ],
+    [
+      "",
+      "",
+      "ES-M",
+      "Madrid"
+    ]
+  ],
+  "ES-MU": [
+    [
+      "",
+      "ES-MU",
+      "",
+      "Murcia, Región de"
+    ],
+    [
+      "",
+      "",
+      "ES-MU",
+      "Murcia"
+    ]
+  ],
+  "ES-NA": [
+    [
+      "",
+      "ES-NA",
+      "",
+      "Navarra, Comunidad Foral de"
+    ],
+    [
+      "",
+      "",
+      "ES-NA",
+      "Navarra"
+    ]
+  ]
+}
