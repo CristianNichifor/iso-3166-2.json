@@ -51,6 +51,14 @@ From eQuest, derived from:
 
 http://docs.equest.com/eQuestCountryAndStateCodes.xls
 
+## Contributing
+
+This fork prepares contributions for upstream; it does not publish a separate
+package. With Node 22, run `npm ci --ignore-scripts` followed by `npm run verify`.
+Checks run offline after installation and preserve the published data. See
+[CONTRIBUTING.md](./CONTRIBUTING.md) for source provenance, historical duplicate
+exceptions, and review requirements.
+
 [size-image]: https://badge-size.herokuapp.com/olahol/iso-3166-2.json/master/iso-3166-2.json.svg
 [size-image-gz]: https://badge-size.herokuapp.com/olahol/iso-3166-2.json/master/iso-3166-2.json.svg?compression=gzip
 [size-url]: https://github.com/olahol/iso-3166-2.json/iso-3166-2.json
